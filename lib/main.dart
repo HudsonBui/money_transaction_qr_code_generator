@@ -72,7 +72,7 @@ class _MyHomePageState extends State<MyHomePage> {
             const SizedBox(height: 20),
             TextButtonContainer(
               btnIcon: const Icon(Icons.abc),
-              btnText: "Text or URL",
+              btnText: "Text or QR",
               onPressed: stringQRGenerate,
             ),
           ],
